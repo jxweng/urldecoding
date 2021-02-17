@@ -1,0 +1,9 @@
+name: myapp
+version: "1.0"
+author: jxw3ng . <jx.w@me.com>
+about: url URL percentage encoding
+args:
+    - verbose:
+        short: v
+        multiple: true
+        about: Sets the level of verbosity
